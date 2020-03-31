@@ -3,7 +3,7 @@
 import sys
 from Bio import Entrez
 
-base_dados = sys.argv[1] #Atribuição os parametro da linha de comandos a variáveis
+base_dados = sys.argv[1] #Atribuição dos parametro da linha de comandos a variáveis
 search_term = sys.argv[2] 
 
 
